@@ -68,3 +68,23 @@ Change Group Owner
 This script changes the group owner of the file hello to the group school.
 
 
+Script: 14-change_owner_and_group
+Change Owner and Group
+This script changes the owner to vincent and the group owner to staff for all files and directories in the working directory.
+
+
+Script: 15-symbolic_link_permissions
+Symbolic Link Permissions
+This script changes the owner and group owner of the symbolic link _hello to vincent and staff respectively.
+
+
+Script: 16-if_only
+If Only
+This script changes the owner of the file hello to betty only if it is owned by the user guillaume.
+
+
+Script: 17-Star_Wars
+Star Wars
+This script plays the Star Wars IV episode in the terminal.
+
+
