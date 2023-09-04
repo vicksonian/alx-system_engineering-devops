@@ -1,1 +1,2 @@
--e#!/bin/bash\n sed -n 3p iacta
+#!/bin/bash 
+head -3 iacta | tail -1
