@@ -1,1 +1,2 @@
-#!/bin/bash \n tr A-Za-z Z-Za-y
+#!/bin/bash
+tr A-Za-z Z-Za-y
